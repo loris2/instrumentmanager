@@ -2,13 +2,6 @@
     "name": "loris/instrumentmanager",
     "license" : "GPL-3.0+",
     "description" : "LORIS (Longitudinal Online Research and Imaging System) is a web-accessible database solution for neuroimaging.",
-    "repositories": [
-    { "type": "vcs", "url": "https://github.com/aces/Loris" }
-      ],
-
-    "require" : {
-        "aces/loris" : ">20.0"
-    },
     "require-dev" : {
         "squizlabs/php_codesniffer" : "2.5.*",
         "phpmd/phpmd": "^2.6",
